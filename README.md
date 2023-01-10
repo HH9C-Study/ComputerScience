@@ -29,7 +29,7 @@
 
 ## 👨‍👩‍👧‍👧 참여 인원
 
-|장윤서|정성우|김재욱|
-|:---:|:---:|:---:|
-|[@Younddo](https://github.com/Younddo)|[@anfrosus](https://github.com/anfrosus)|[@woogie911](https://github.com/WooGie911)|
-|Spring,Java|Spring,Java|React,JavaScript|
+|장윤서|정성우|김재욱|원민재|
+|:---:|:---:|:---:|:---:|
+|[@Younddo](https://github.com/Younddo)|[@anfrosus](https://github.com/anfrosus)|[@woogie911](https://github.com/WooGie911)|[@meruberu](https://github.com/meruberu)|
+|Spring,Java|Spring,Java|React,JavaScript|Spring,Java|
