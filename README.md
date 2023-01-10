@@ -28,10 +28,10 @@
 ## 📌 스터디시간표
 |날짜|진행사항|발표자|진행여부|
 |:---:|:---|:---:|:---:|
-|22-01-11|Computer Architecture <br> 컴퓨터 구조 기초, 컴퓨터의 구성, 중앙처리장치(CPU) 작동 원리 |장윤서||
-|22-01-12|Computer Architecture <br> 캐시메모리, 고정소수점&부동소수점, 패리티비트&해밍코드, ARM 프로세서 |정성우||
-|22-01-13|Data Structure <br> Array, LinkedList, Array & ArrayList & LinkedList, 스택(Stack) & 큐(Queue), 힙(Heap) |원민재||
-|22-01-14|Data Structure <br> 트리(Tree), 이진탐색트리(Binary Search Tree), 해시(Hash), 트라이(Trie), B-Tree & B+Tree |김재욱||
+|22-01-11|Computer Architecture <br> 컴퓨터 구조 기초, 컴퓨터의 구성, <br> 중앙처리장치(CPU) 작동 원리 |장윤서||
+|22-01-12|Computer Architecture <br> 캐시메모리, 고정소수점&부동소수점, <br> 패리티비트&해밍코드, ARM 프로세서 |정성우||
+|22-01-13|Data Structure <br> Array, LinkedList, Array & ArrayList & LinkedList, <br> 스택(Stack) & 큐(Queue), 힙(Heap) |원민재||
+|22-01-14|Data Structure <br> 트리(Tree), 이진탐색트리(Binary Search Tree), 해시(Hash), <br> 트라이(Trie), B-Tree & B+Tree |김재욱||
 
 <br>
 
