@@ -34,6 +34,8 @@
 * set, hash 지원
 * pub/sub 기능을 통한 채팅
 
+[도큐먼트 데이터베이스](https://aws.amazon.com/ko/nosql/document/)
+
 ---
 
 # 인덱스
