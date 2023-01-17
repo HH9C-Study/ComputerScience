@@ -7,6 +7,7 @@
 [시간복잡도 Time Complexity](https://hanamon.kr/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-time-complexity-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84/)
 * 시간복잡도의 존재 이유 ➡ 효율적인 코드로 개선하는데 쓰이는 척도가 됨
 * O(n^2) 보다는 O(n) 보다는 O(1)을 지향해야 한다.
+* 성우님이 주신 추가 자료 [시간복잡도 Big-O(빅오)란?](https://ssdragon.tistory.com/100)
 
 ## 공간복잡도 📁 Space Complexity
 * 공간복잡도는 프로그램을 실행시켰을 때 필요로하는 자원 공간의 양을 말한다.
