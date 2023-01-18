@@ -71,7 +71,6 @@
 <br>
 
 
-
 ## 참고자료
 * 면접을 위한 CS 전공지식 노트
 * https://velog.io/@tanger2ne/CS%EB%85%B8%ED%8A%B8-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EC%84%A0%ED%98%95-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0
