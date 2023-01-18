@@ -5,6 +5,10 @@
 
 <br>
 
+![image](https://user-images.githubusercontent.com/32894573/213150572-60a29410-f7ea-4bc8-910d-3cb2c907fb50.png)
+
+<br>
+
 ## 1. 연결 리스트 Linked List
 데이터를 감싼 노드를 포인터로 연결해서 공간적인 효율성을 극대화시킨 자료 구조
 
@@ -17,12 +21,20 @@
 
 ###  싱글 연결 리스트 Single Linked 
     next 포인터만 가진다.
+    
+![image](https://user-images.githubusercontent.com/32894573/213150711-6ea15165-88aa-4441-b9f6-548b557490f0.png)
+
 
 ### 이중 연결 리스트 Doubly Linked List
     next 포인터와 perv 포인터를 가진다. 
+    
+![image](https://user-images.githubusercontent.com/32894573/213150807-92f3d7d1-126e-4f85-a991-5d3d91ded258.png)
 
 ### 원형 이중 연결 리스트 Circular Doubly Linked List
     이중 연결 리스트와 같지만 마지막 노드의 next 포인터가 헤드 노드를 가리킨다.
+
+![image](https://user-images.githubusercontent.com/32894573/213150893-69be3f5b-f785-41e4-941a-5382c08092b1.png)
+
 
 <br>
 
@@ -38,13 +50,13 @@
 <br>
 
 ## 3. 벡터 Vector
-데이터를 감싼 노드를 포인터로 연결해서 공간적인 효율성을 극대화시킨 자료 구조
+동적으로 요소를 할당 할 수 있는 동적 배열.
 
-* 같은 타입의 변수들로 이루어져 있다.
-* 크기가 정해져 있다.
-* 인접한 메모리 위치에 있는 데이터를 모아놓은 집합이다.
-* 중복을 허용하고 순서가 있다.
-* 시간복잡도 - 탐색: O(1), 삽입과 삭제: O(n)
+* 컴파일 시점에 개수를 모른다면 벡터를 사용해야 함.
+* 가변 배열로 크기가 정해져 있지 않아 메모리를 효율적으로 사용 가능. (배열과의 차별점)
+* 중복을 허용하고 순서가 있으며 랜덤 접근이 가능. (리스트와의 차별점)
+* 탐색, 혹은 맨 뒤의 요소를 삭제하거나 삽입하는데 
+* 시간복잡도 - 탐색,맨 뒤의 요소를 삭제하거나 삽입 : O(1), 맨 뒤나 맨 앞이 아닌 요소를 삭제하거나 삽입 : O(n)
 
 <br>
 
@@ -75,5 +87,6 @@
 * 면접을 위한 CS 전공지식 노트
 * https://velog.io/@tanger2ne/CS%EB%85%B8%ED%8A%B8-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EC%84%A0%ED%98%95-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0
 * https://uni.rejoice-it.com/27
+* https://bbmsk2.tistory.com/124
 
 
